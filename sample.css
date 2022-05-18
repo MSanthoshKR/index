@@ -1,0 +1,105 @@
+<style>
+/*
+to create the colour of a link
+
+
+a:link
+{
+	color: red;
+	
+	text-decoration: underline;
+}
+a:active
+{
+	color: darkred;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:hover
+{
+	color:pink;
+	background-color: transparent;
+	text-decoration: underline;
+}
+a:visited
+{
+	color: pink;
+	background-color: transparent;
+	text-decoration: underline;
+}
+*/
+
+
+
+
+
+/*a:link, a:visited {
+  background-color: #f44336;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}*/
+
+
+
+
+
+
+
+
+
+
+h1
+ {
+ 	color:white;
+ 	font-size: 200%;
+ 	background-color:#333333;
+ 	border:2px solid black;
+ 	text-align:center;
+ 	border-radius:5px;
+ }
+h4
+{
+	
+	font-family:normal;
+	font-size:200%;
+	background-color:indianred;
+    
+
+   border-radius: 5px;
+
+
+	border:2px outset black;
+}
+body
+{
+	/*background-color:powderblue;
+	/*background-image:url('plain.jpg');*/
+	background-image: url('images.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+}
+
+p{  color: black;
+	font-family:normal;
+	font-size:18px;
+	/*background-image:url('plain.jpg');*/
+}
+h2{
+	text-align:center;
+	font-size:200%;
+	font-family:normal;
+	color:whitesmoke;
+	background-color:#333333;
+	border-radius: 5px;
+	border:2px solid black;
+}
+</style>
